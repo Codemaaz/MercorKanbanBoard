@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MercorKanbanBoard/static/css/main.c83631ce.css",
+    "main.css": "/MercorKanbanBoard/static/css/main.085d27e0.css",
     "main.js": "/MercorKanbanBoard/static/js/main.fd552c66.js",
     "static/media/profilePic.svg": "/MercorKanbanBoard/static/media/profilePic.078a1d758f0d301359f265c51f4db783.svg",
     "static/media/friend4.svg": "/MercorKanbanBoard/static/media/friend4.84d4b34f423aa04c1a0d1c4b4a43afa6.svg",
@@ -16,11 +16,11 @@
     "static/media/task.svg": "/MercorKanbanBoard/static/media/task.6f430fe7c406bdbb4a762d8bd4ccbbe3.svg",
     "static/media/message.svg": "/MercorKanbanBoard/static/media/message.f9e659df0d869a1c839fda01f8cf43de.svg",
     "static/media/friend1.svg": "/MercorKanbanBoard/static/media/friend1.bfbb3e274f3071cd04bcb0ccf19baa1d.svg",
-    "main.c83631ce.css.map": "/MercorKanbanBoard/static/css/main.c83631ce.css.map",
+    "main.085d27e0.css.map": "/MercorKanbanBoard/static/css/main.085d27e0.css.map",
     "main.fd552c66.js.map": "/MercorKanbanBoard/static/js/main.fd552c66.js.map"
   },
   "entrypoints": [
-    "static/css/main.c83631ce.css",
+    "static/css/main.085d27e0.css",
     "static/js/main.fd552c66.js"
   ]
 }
