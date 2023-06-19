@@ -1,3 +1,13 @@
+### Mercor Kanban Board Website
+The Mercor Kanban Board Website is a React-based web application designed for Mercor, a leading company in the industry. This project aims to create a fully functional Kanban board website that enhances project management and collaboration within the company.
+### Key Features
+### Board Creation and Management: 
+    Create multiple boards representing different projects, with customizable names and colors.
+### Kanban Board Interface:`
+     Visualize tasks using columns like "To Do," "In Progress," and "Done," with the ability to drag and drop tasks for progress tracking.
+### Task Creation and Editing: 
+    By clicking on card Add detailed task information such as titles, descriptions, due dates, and assigned team members. Update or delete tasks as needed.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +78,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
